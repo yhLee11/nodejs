@@ -1,0 +1,6 @@
+#folder
+node_modules
+
+#JSON
+package.json
+pagkage-lock.json
